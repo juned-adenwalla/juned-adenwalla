@@ -1,5 +1,3 @@
-<?php 
-
 $name = "Juned Adenwalla";
 $age = "18";
 $like_1 = "Programming";
@@ -11,4 +9,3 @@ echo "Hello, I am ".$name." and I am ".$age."years old, I love ".$like_1.", ".$l
 
 echo $quote;
 
-?>
