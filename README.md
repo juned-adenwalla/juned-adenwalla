@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juned Adenwalla</h1>
-<h3 align="center">A passionate developer from Mumbai, India</h3>
+<h3 align="center">A passionate developer from Mumbai who can also fix your computer's</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juned-adenwalla&label=Profile%20views&color=0e75b6&style=flat" alt="juned-adenwalla" /> </p>
 
