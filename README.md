@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @juned-adenwalla
-- 👀 I’m interested in python, cyber security & networking
-- 🌱 I’m currently learning all above
-- 💞️ I’m looking to collaborate on all above
-- 📫 You can reach me at adenwalla.juned@gmail.com
+<?php 
+
+$name = "Juned Adenwalla";
+$age = "18";
+$like_1 = "Programming";
+$like_2 = "Learning New Things";
+$like_3 = "Making Friends";
+$quote = "I am a Programmer who can fix your computer's";
+
+echo "Hello, I am ".$name." and I am ".$age."years old, I love ".$like_1.", ".$like_2." and ".$like_3.", I am always open for new projects & ideas.";
+
+echo $quote;
+
+?>
