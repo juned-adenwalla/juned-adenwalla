@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juned Adenwalla</h1>
-<h3 align="center">Maharashtra Skills Gold Medalist Web Technologies</h3>
+<h1 align="left">Hi 👋, I'm Juned Adenwalla</h1>
+<h3 align="left">Maharashtra Skills Gold Medalist Web Technologies</h3>
 
 - 📝 I regularly write articles on [https://thepager.in](https://thepager.in)
 
